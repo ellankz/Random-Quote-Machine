@@ -1,0 +1,19 @@
+{
+  "name": "ngFit",
+  "version": "1.0.0",
+  "homepage": "",
+  "authors": [],
+  "description": "",
+  "keywords": [],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    ".jshintrc"
+  ],
+  "dependencies": {
+    "bootstrap": "^3.3.6",
+    "jquery": "^2.2.2"
+  }
+}
